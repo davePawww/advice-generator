@@ -1,10 +1,6 @@
-This is a challenge from FrontendMentor.io
+# Advice Generator
 
-Technologies used:
-Next
-Typescript
-Tailwind
+This project is a challenge from FrontendMentor.io. This is already outdated.
+I have a backlog to recreate this web application and replace the advices with "Top 1% Quotes" that I have gathered throughout the years.
 
-https://advice-generator-5p6d83ziy-davepaurillo.vercel.app/
-
-This is build for practice purposes only.
+Stay tuned!
